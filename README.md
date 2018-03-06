@@ -9,7 +9,7 @@ This is a restaurant app that lets users input the names of burgers they'd like 
 I have built an application meant to log your burgers with MySQL, Node, Express, Handlebars and a homemade ORM. The app design pattern follows a MVC structure; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
 The app is deployed on Heroku so whoever may want to fill it out can do as well.
-[Go To The Site](https://cryptic-waters-18097.herokuapp.com/ "FriendFind Heroku")
+[Go To The Site](https://intense-reef-34889.herokuapp.com/ "FriendFind Heroku")
 - - -
 ### Instructions
 
@@ -44,7 +44,6 @@ The app is deployed on Heroku so whoever may want to fill it out can do as well.
 All the recommended files and directories from the steps above should look like the following structure:
 
 ```
-.
 ├── config
 │   ├── connection.js
 │   └── orm.js
@@ -78,6 +77,5 @@ All the recommended files and directories from the steps above should look like 
     └── layouts
         └── main.handlebars
 ```
-
 - - -
 **Good Luck!**
