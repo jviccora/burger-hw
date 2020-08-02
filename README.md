@@ -4,12 +4,10 @@ This is a restaurant app that lets users input the names of burgers they'd like 
 # Node Express Handlebars
 
 ### Overview
-[Find My Repository](https://github.com/iggy788/burger "Mike's Repository")
+[Find My Repository](https://github.com/jviccora/burger-hw.git)
 
 I have built an application meant to log your burgers with MySQL, Node, Express, Handlebars and a homemade ORM. The app design pattern follows a MVC structure; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
-The app is deployed on Heroku so whoever may want to fill it out can do as well.
-[Go To The Site](https://intense-reef-34889.herokuapp.com/ "FriendFind Heroku")
 - - -
 ### Instructions
 
@@ -26,7 +24,7 @@ The app is deployed on Heroku so whoever may want to fill it out can do as well.
 ### One More Thing
 
 **Install These Packages**
-1. Go to my [GitHub](https://github.com/iggy788/burger) repo called `burger` and clone it to your computer.
+1. Go to my [GitHub](https://github.com/jviccora/burger-hw.git) repo called `burger` and clone it to your computer.
 2. Make a package.json file by running `npm init` from the command line.
 3. Install the Express npm package: `npm install express --save`
    * [Express](https://www.npmjs.com/package/express)
